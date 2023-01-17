@@ -1,0 +1,12 @@
+----------------------------------------
+==== selamat datang di parkiran UAD ====
+====      Karcis Masuk Motor        ===
+----------------------------------------
+
+	tarif motor   : 2000 (flat)
+	Plat no motor : AB 1234 DS
+	waktu masuk   : 7.50
+
+-----------------------------------------
+== jaga struk ini jangan sampai hilang ==
+-----------------------------------------

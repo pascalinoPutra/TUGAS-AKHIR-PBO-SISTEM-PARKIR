@@ -1,0 +1,16 @@
+
+-----------------------------------------
+========      sistem parkir UAD    =======
+========      bukti pembayaran     ======
+----------------------------------------
+
+	tarif motor   = 2000 (flat)
+	Plat no mobil = AB 1234 DS
+	waktu masuk   = 17/0/2023 7.51
+	waktu Keluar  = 8:50
+	total waktu   = 1 jam, 0 menit
+	total bayar   = Rp.2000
+
+-----------------------------------------
+====   TERIMA KASIH -  SELAMAT JALAN   ====
+-------------------------------------------
