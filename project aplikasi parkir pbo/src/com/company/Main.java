@@ -33,6 +33,7 @@ public class Main {
                     break;
                 case 3:
                     mhs.entryMhs();
+                    break;
                 default:
                     System.exit(0);
             }
